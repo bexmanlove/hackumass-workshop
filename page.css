@@ -1,0 +1,31 @@
+body{
+  background-color: blue;
+  color: #fff;
+}
+
+section{
+  background-color: #D5D5D5;
+  color: #000;
+
+}
+
+h1{
+  background-color: purple;
+  text-align: center;
+  padding: 10px; /* can also use % or em or vw */
+}
+
+img{
+  width: 250px;
+  height: auto;
+  margin: 2%;
+}
+
+#titleTwo{
+  font-family: 'Permanent Marker', cursive;
+}
+
+.favColor{
+  color: orange;
+  list-style-type: square;
+}
